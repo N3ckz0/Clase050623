@@ -4,5 +4,5 @@
 
     $num1 = new NumeroEntero(5);
 
-    echo $num1->getNe();
+    echo "EL VALOR DEL NUMERO ES :" . $num1->getNe();
 ?>
